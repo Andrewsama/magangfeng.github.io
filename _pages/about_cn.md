@@ -8,7 +8,7 @@ redirect_from:
 ---
 **马钢峰**
 
-Post-Doctoral Fellow 
+师资博士后在站
 
 College of Computer Science and Technology
 
