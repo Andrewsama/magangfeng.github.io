@@ -3,10 +3,10 @@ permalink: /
 title: "🌞 About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about-cn/
+  - /about-cn.html
 ---
-**Gang-Feng Ma**
+**马钢峰**
 
 Post-Doctoral Fellow 
 
