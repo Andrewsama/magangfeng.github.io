@@ -23,7 +23,7 @@ My supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), th
 You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mgf/)
 
 
-News
+🌕 News
 ======
 Aug.7, 2024: A paper is accept by _Neurocomputing_
 
@@ -34,7 +34,7 @@ Apr.21, 2024: A paper is accept by _Applied Intelligence_
 Mar.20, 2024: A paper is accept by _Neurocomputing_
 
 
-Publications
+🌔 Publications
 ======
 
 2024
@@ -58,7 +58,7 @@ Before 2023
 
 
 
-Education Experience
+🌓 Education Experience
 ======
 * Sep. 2018 - Sep. 2023: Ph.D Computer Science and Technology, Zhejiang University of Technology.
 
@@ -69,7 +69,7 @@ Education Experience
 
 
 
-Internship Experience
+🌒 Internship Experience
 ======
 **Zhejiang Dahua Technology Co., Ltd.**
 
@@ -77,7 +77,7 @@ NLP Algorithm Intern
 
 
 
-Project Experience
+🌑 Project Experience
 ======
 * Huawei Ascend Pervasive Intelligence Project - Development for MindX SDK
 
