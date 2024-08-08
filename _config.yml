@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gang-Feng Ma (马钢峰)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Zhejiang University of Technology"
+  location         : "Hangzhou, Zhejiang, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
