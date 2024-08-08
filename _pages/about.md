@@ -20,7 +20,7 @@ Email: [gf_ma@zjut.edu.cn](mailto:gf_ma@zjut.edu.cn)
 
 My supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), the director of the Institute of Intelligent Computing at Zhejiang University of Technology. My research intersts include Graph Neural Network, Recommendation Systems, and Knowledge Graph. I have over 10 publications appeared in several journals and conferences such as TNSE, TCAS-II, DMKD, Neurocomputing, Applied Intelligence, and Information Sciences.
 
-You can also visit my Chinese Academic CV [here](/_pages/about_cn.md/)  # https://homepage.zjut.edu.cn/mgf/
+You can also visit my Chinese Academic CV [here]([/_pages/about_cn.md/])  # https://homepage.zjut.edu.cn/mgf/
 
 
 🕛 News
