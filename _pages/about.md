@@ -41,7 +41,7 @@ Publications
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**TNSE**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu. Robust social recommendation based on contrastive learning and dual-stage graph neural network. (**Neurocomputing**).
-* Yang X H*, Wei D, Zhang L, **Gang-Feng Ma**, et al. Task-related network based on meta-learning for few-shot knowledge graph completion. (**Applied Intelligence**).
+* Xu-Hua Yang*, Wei D, Zhang L, **Gang-Feng Ma**, et al. Task-related network based on meta-learning for few-shot knowledge graph completion. (**Applied Intelligence**).
 
 2023
 ------
