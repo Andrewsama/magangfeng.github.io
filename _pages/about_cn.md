@@ -3,8 +3,8 @@ permalink: /
 title: "🌞 About me"
 author_profile: true
 redirect_from: 
-  - /about-cn/
-  - /about-cn.html
+  - /about_cn/
+  - /about_cn.html
 ---
 **马钢峰**
 
