@@ -35,6 +35,7 @@ Mar.20, 2024: A paper is accept by _Neurocomputing_
 
 Publications
 ======
+
 2024
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**TNSE**).
