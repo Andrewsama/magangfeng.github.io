@@ -27,7 +27,7 @@ News
 ======
 Aug.7, 2024: A paper is accept by _Neurocomputing_
 
-May.12, 2024: A paper is accept by _IEEE Transactions on Network Science and Engineering_ (TNSE)
+May.12, 2024: A paper is accept by _IEEE Transactions on Network Science and Engineering_
 
 Apr.21, 2024: A paper is accept by _Applied Intelligence_
 
