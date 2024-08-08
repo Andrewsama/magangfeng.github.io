@@ -22,6 +22,7 @@ My supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), th
 
 You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mgf/)
 
+
 News
 ======
 Aug.7, 2024: A paper is accept by _Neurocomputing_
@@ -56,6 +57,7 @@ Before 2023
 * Gang-Feng Ma, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang. Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation. (**ICONIP**)
 
 
+
 Education Experience
 ======
 * Sep. 2018 - Sep. 2023: Ph.D Computer Science and Technology, Zhejiang University of Technology.
@@ -65,11 +67,15 @@ Education Experience
 
   院优秀团员；校奖学金；校级组织校社团联盟外联部副部长；易芯EC计算机社团硬件部副部长；班级副班长 
 
+
+
 Internship Experience
 ======
 **Zhejiang Dahua Technology Co., Ltd.**
 
 NLP Algorithm Intern
+
+
 
 Project Experience
 ======
