@@ -54,7 +54,7 @@ Mar.20, 2024: A paper is accept by _Neurocomputing_
 
 Before 2023
 ------
-* Gang-Feng Ma, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang. Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation. (**ICONIP**)
+* **Gang-Feng Ma**, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang. Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation. (**ICONIP**)
 
 
 
