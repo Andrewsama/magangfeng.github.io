@@ -22,6 +22,7 @@ My supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), th
 
 You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mgf/).
 
+<br />
 
 🕛 News
 ======
@@ -33,6 +34,7 @@ Apr.21, 2024: A paper is accept by _Applied Intelligence_
 
 Mar.20, 2024: A paper is accept by _Neurocomputing_
 
+<br />
 
 🕑 Publications
 ======
@@ -71,9 +73,9 @@ Before 2023
 
 🕗 Internship Experience
 ======
-**Zhejiang Dahua Technology Co., Ltd.**
+* **Zhejiang Dahua Technology Co., Ltd.**
 
-NLP Algorithm Intern
+&emsp;&emsp;NLP Algorithm Intern
 
 <br />
 
