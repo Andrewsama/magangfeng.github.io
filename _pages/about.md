@@ -56,7 +56,7 @@ Before 2023
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang. Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation. (**ICONIP**)
 
-
+<br />
 
 🕓 Education Experience
 ======
@@ -67,7 +67,7 @@ Before 2023
 
   院优秀团员；校奖学金；校级组织校社团联盟外联部副部长；易芯EC计算机社团硬件部副部长；班级副班长 
 
-
+<br />
 
 🕗 Internship Experience
 ======
@@ -75,7 +75,7 @@ Before 2023
 
 NLP Algorithm Intern
 
-
+<br />
 
 🕙 Project Experience
 ======
