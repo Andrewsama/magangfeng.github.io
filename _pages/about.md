@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://andrewsama.github.io/
 title: "🌞 About me"
 author_profile: true
 redirect_from: 
