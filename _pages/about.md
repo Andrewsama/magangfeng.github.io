@@ -75,7 +75,7 @@ Before 2023
 ======
 * **Zhejiang Dahua Technology Co., Ltd.**
 
-&emsp;&emsp;NLP Algorithm Intern
+  NLP Algorithm Intern
 
 <br />
 
