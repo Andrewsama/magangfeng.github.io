@@ -42,14 +42,14 @@ Mar.20, 2024: A paper is accept by _Neurocomputing_
 2024
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation. (**Neurocomputing**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**TNSE**).
+* **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**IEEE TNSE**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu. Robust social recommendation based on contrastive learning and dual-stage graph neural network. (**Neurocomputing**).
 * Xu-Hua Yang*, Wei D, Zhang L, **Gang-Feng Ma**, et al. Task-related network based on meta-learning for few-shot knowledge graph completion. (**Applied Intelligence**).
 
 2023
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Lei Ye. Enhanced contrastive representation in network. (**Information Sciences**).
-* Xu-Hua Yang, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou*, Yu-Di Zhang, Lei Ye. Community Detection Based on Markov Similarity Enhancement. (**TCAS-II**).
+* Xu-Hua Yang, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou*, Yu-Di Zhang, Lei Ye. Community Detection Based on Markov Similarity Enhancement. (**IEEE TCAS-II**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Wei Ye, Xin-Li Xu, and Lei Ye. Network embedding based on high-degree penalty and adaptive negative sampling. (**DMKD**).
 * Xu-Hua Yang*, **Gang-Feng Ma**, Xin Jin, Hai-Xia Long, Jie Xiao, and Lei Ye. Knowledge graph embedding and completion based on entity community and local importance. (**Applied Intelligence**).
 * Xu-Hua Yang, **Gang-Feng Ma**, Fang-Nan Ma, Lei Ye*, Yu-Di Zhang. Attribute network joint embedding based on global attention. (**Pattern Recognition Letters**).
