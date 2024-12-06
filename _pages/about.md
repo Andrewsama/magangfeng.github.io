@@ -26,13 +26,15 @@ You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mg
 
 🕛 News
 ======
-Aug.7, 2024: A paper is accept by _Neurocomputing_
+Dec.6, 2024: A paper is accepted by _Applied Intelligence_
 
-May.12, 2024: A paper is accept by _IEEE Transactions on Network Science and Engineering_
+Aug.7, 2024: A paper is accepted by _Neurocomputing_
 
-Apr.21, 2024: A paper is accept by _Applied Intelligence_
+May.12, 2024: A paper is accepted by _IEEE Transactions on Network Science and Engineering_
 
-Mar.20, 2024: A paper is accept by _Neurocomputing_
+Apr.21, 2024: A paper is accepted by _Applied Intelligence_
+
+Mar.20, 2024: A paper is accepted by _Neurocomputing_
 
 <br />
 
@@ -41,6 +43,7 @@ Mar.20, 2024: A paper is accept by _Neurocomputing_
 
 2024
 ------
+* Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou. Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism. (**Applied Intelligence**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation. (**Neurocomputing**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**IEEE TNSE**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu. Robust social recommendation based on contrastive learning and dual-stage graph neural network. (**Neurocomputing**).
